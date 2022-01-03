@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seyda</h1>
 <h3 align="center">A jr. full-stack developer from Turkey.</h3>
 
-- 💬 Ask me about **.net core, mvc, N-Tier Architecture sql, **
+- 💬 Ask me about .net core, mvc, N-Tier Architecture sql, 
 
 - 📫 How to reach me **seydatatlioglu@gmail.com**
 
